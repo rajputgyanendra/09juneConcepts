@@ -1,0 +1,21 @@
+Functional Programming- 
+Object Oriented Programming-
+
+with the functional programming- avoid state change and mutation
+for multithreaded environment this is mostly used because state don't change and avoid mutation.
+
+ex. built in functional interface
+  Predicate- take a input and return boolean - test()
+  Consumer - take a input but no output  - accept()
+  Function - take a input and one output - apply()
+  BiFunction
+  Supplier - no input only output - Math.random()
+
+
+
+  
+  lambda is used to define functional interfaces
+  functional interaces is the interface having single abstract method only.
+  Stream is used to process a data of collection like list,array,set, it acts as a pipeline through which data flows and get processed step by step.
+  
+  
